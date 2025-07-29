@@ -1,5 +1,7 @@
 # Free AI SaaS
 
+[中文版本](./README-zh.md)
+
 A curated list of free, small yet powerful AI SaaS (Software as a Service) products.
 
 ## Image Editor
